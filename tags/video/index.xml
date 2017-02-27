@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Video on CSEC101</title>
-    <link>https://leamee.github.io/csec101/tags/video/index.xml</link>
+    <link>/www.csec101.xyz/tags/video/index.xml</link>
     <description>Recent content in Video on CSEC101</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>(c) 2017 - leamee | </copyright>
-    <atom:link href="https://leamee.github.io/csec101/tags/video/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/www.csec101.xyz/tags/video/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>A Post with a Video</title>
-      <link>https://leamee.github.io/csec101/posts/video-post/</link>
+      <link>/www.csec101.xyz/posts/video-post/</link>
       <pubDate>Tue, 25 Jun 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://leamee.github.io/csec101/posts/video-post/</guid>
+      <guid>/www.csec101.xyz/posts/video-post/</guid>
       <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/SU3kYxJmWuQ&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;Video embeds are responsive and scale with the width of the main content block with the help of &lt;a href=&#34;http://fitvidsjs.com/&#34;&gt;FitVids&lt;/a&gt;.&lt;/p&gt;
