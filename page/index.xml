@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on CyberSecurity 101</title>
+    <link>http://www.csec101.xyz/page/index.xml</link>
+    <description>Recent content in Pages on CyberSecurity 101</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>leamee@gmail.com (leamee)</managingEditor>
+    <webMaster>leamee@gmail.com (leamee)</webMaster>
+    <atom:link href="http://www.csec101.xyz/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hakkımda</title>
+      <link>http://www.csec101.xyz/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>leamee@gmail.com (leamee)</author>
+      <guid>http://www.csec101.xyz/page/about/</guid>
+      <description>&lt;p&gt;İnsanın birkaç kelime ile kendini tanımlaması çok zor. Hele benim gibi mühendis kökenli bir için. Ne beyaz, gri ya da siyah bir şapkam var; ne de elimde sihirli bir değneğim. Sadece, ucundan kıyısından siber güvenliğe dokunan mevzulardan sonsuz keyif alan bilişim müptelasıyım diyebilirim kendim için.&lt;/p&gt;
+
+&lt;p&gt;Bu bloğu kaleme alırken amacım, gündelik işlerde karşılaştım kimi sorunlara ilişkin çözümleri meraklısıyla paylaşmak. Çünkü çoğu zaman karşılaşılan problemler aşılmaz koca bir dağ halini labiliyor. Okunan onlarca makaleden sonra ulaşabiliyor insan ancak çözüme. Benimle aynı sorunlarla karşılaşmış/karşılaşacak kişilerin çözüme ulaşma süresini kısaltmaktır hedefim.&lt;/p&gt;
+
+&lt;p&gt;İçerik %100 özgün olacak diyemem. Zira bu çok iddalı ve gerçekten uzak olurdu. Umarım keyif alır, fayda görürsünüz. Olumlu/olumsuz her türlü eleştirinizi paylaşmanız dileğiyle&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
